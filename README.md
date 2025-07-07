@@ -1,8 +1,8 @@
-# ✊✋✌️ Rock–Paper–Scissors Game
+# ✊✋✌️ Rock–Paper–Scissors Game 
 
 A simple and fun **Rock–Paper–Scissors** game built using **HTML**, **CSS**, and **JavaScript**.  
 Play against the computer and see who wins!
-
+🎯 You VS Computer 
 ---
 
 ## 🔗 Live Demo
